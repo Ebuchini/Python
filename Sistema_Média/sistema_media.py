@@ -1,6 +1,5 @@
 print("\n\n==== VERIFICAÇÃO DE NOTAS DOS ESTUDANTES ==== \n")
 
-
 def cad_nota():
     nome = input("Digite o nome do Aluno: ")
     while nome.isnumeric():
@@ -35,6 +34,5 @@ def cad_nota():
 
     print('\nObrigado por usar nosso Sistema, Buscaremos sempre nos aperfeiçoar!')
     exit()
-
 
 cad_nota()
