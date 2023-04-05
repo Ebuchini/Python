@@ -1,0 +1,6 @@
+Aqui está um modelo de sistema escolar, onde é preciso digitar o nome do aluno (só é aceito letras)
+Recebe 4 Notas, faz a média e verifica se o Aluno é Aprovado ou Não.
+
+retorna todas as Notas inclusive a média.
+
+E Uma forma também de chamar a função através de um arquivo limpo 
